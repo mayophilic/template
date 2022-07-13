@@ -1,0 +1,67 @@
+
+#m500{color:blue;
+	font-size: 25px;
+position: relative;
+left:700px;
+top:6px;}
+
+
+
+
+#my0{background-color:azure;}
+
+
+
+
+#pills-tab{background-color:beige;
+border:ridge 1px;
+border-color:black;
+margin:3px;}
+
+#my{background-color:;
+text-align: center;
+border:inset 2px;
+margin-left: 350px;
+text-shadow:4px 4px 4px grey;
+margin-right: 350px;
+border-color:lightblue;}
+
+
+#pills-home{background-color:;
+margin:5px;}
+
+
+#my2{background-color:;
+border:;
+text-align:;
+margin:100px;
+position:relative;
+}
+
+#my3{background-color:lightgrey;
+margin:10px;
+position:relative;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+
+.card-img-top{width:100px;
+position: relative;
+right:-80px;}
+
+#my6{border:solid;
+position:relative;
+left:850px;
+bottom:2540px;}
+
+#my7{border:;
+position:relative;
+left:850px;
+bottom:2000px;}
+
+#m8{border:;
+	position: relative;
+bottom:650px;
+padding-left:10px;
+padding-right:80px;}
